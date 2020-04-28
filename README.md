@@ -10,3 +10,4 @@ Procedure followed:
   >Cannon form image will be of black background and white edges
   >To get white background with black edges binary_inv is applied to image.
   >continuous of these images gives you a live video sketch.
+3. To exit from live sketch press enter.
